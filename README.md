@@ -1,4 +1,4 @@
-# **🐙E-Commerce Customer Churn Analysis - MySQL Project**
+# **🐙E-Commerce Customer Churn Analysis**
 # **📌 Project Overview**
 * This project focuses on analyzing customer churn for an e-commerce platform using MySQL. Churn analysis helps in identifying customers who are likely to stop using a service, allowing the business to take proactive measures for retention.
 * The analysis covers various factors such as customer demographics, login behavior, payment modes, and satisfaction scores.
